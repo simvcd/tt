@@ -1,0 +1,4 @@
+# Frequency (cm^-1)	VCD strength
+1000	0.014
+1010	0.031
+1020	-0.008

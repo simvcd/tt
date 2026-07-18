@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 430" role="img" aria-labelledby="title desc">
+  <title id="title">Overlaid observed and calculated VCD spectra</title>
+  <desc id="desc">A blue observed spectrum and a red calculated spectrum are plotted together around a horizontal zero baseline.</desc>
+  <rect width="720" height="430" rx="20" fill="#fbfefd"/>
+  <g stroke="#d9e9e5" stroke-width="1">
+    <path d="M78 74H668M78 142H668M78 210H668M78 278H668M78 346H668"/>
+    <path d="M78 46V356M196 46V356M314 46V356M432 46V356M550 46V356M668 46V356"/>
+  </g>
+  <path d="M78 210H668" stroke="#315f57" stroke-width="2.5"/>
+  <path d="M78 47 C85 46 88 175 100 208 C111 231 122 234 137 211 C151 193 161 163 173 201 C186 240 198 239 213 211 C228 178 238 99 250 209 C264 238 277 260 291 212 C307 180 319 147 332 207 C345 241 357 237 370 211 C384 174 393 111 405 208 C419 244 430 304 443 211 C456 172 467 79 478 205 C492 238 506 230 519 211 C532 195 544 175 557 210 C570 231 583 230 597 210 C611 196 622 194 635 209 C648 225 658 219 668 210" fill="none" stroke="#2459ee" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M78 208 C87 211 89 57 100 209 C112 213 123 224 138 210 C151 202 163 166 174 210 C186 223 198 221 213 210 C227 197 239 88 250 210 C263 222 277 277 291 210 C304 185 319 133 332 210 C345 229 357 227 370 210 C383 186 394 142 405 210 C418 231 430 263 443 210 C455 179 468 119 478 210 C490 221 505 222 519 210 C533 204 545 187 557 210 C570 218 583 218 597 210 C611 202 622 200 635 210 C648 218 658 215 668 210" fill="none" stroke="#e23d3d" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <g font-family="Arial, sans-serif" fill="#365d56">
+    <text x="78" y="390" font-size="18">Wavenumber (cm⁻¹)</text>
+    <text x="20" y="57" font-size="18" transform="rotate(-90 20 57)">VCD intensity</text>
+    <text x="625" y="196" font-size="15">0</text>
+  </g>
+  <g transform="translate(92 67)" font-family="Arial, sans-serif" font-size="16">
+    <line x1="0" y1="0" x2="30" y2="0" stroke="#2459ee" stroke-width="5" stroke-linecap="round"/>
+    <text x="40" y="6" fill="#183d37">Observed</text>
+    <line x1="142" y1="0" x2="172" y2="0" stroke="#e23d3d" stroke-width="4" stroke-linecap="round"/>
+    <text x="182" y="6" fill="#183d37">Calculated</text>
+  </g>
+</svg>
